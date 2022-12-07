@@ -5,7 +5,7 @@
 {"city" : "Corpus Christi",   	"mascot" : "RedHawks",	    "short" : "CC", 	"homeText" : "FFFFFF",	"homeMain" : "A80000",	"homeSecondary" : "C6AA76",	"awayText" : "A80000",	"awayMain" : "FFFFFF",  "awaySecondary" : "C6AA76"},
 {"city" : "Charlotte",  		"mascot" : "Royals",	    "short" : "CHA", 	"homeText" : "BA0C2F",	"homeMain" : "003087",	"homeSecondary" : "D9C756",	"awayText" : "003087",	"awayMain" : "FFFFFF",  "awaySecondary" : "BA0C2F"},
 {"city" : "Dallas",    	"mascot" : "Dreams",	    	"short" : "DAL", 	"homeText" : "FFFFFF",	"homeMain" : "0000C0",	"homeSecondary" : "FFFFFF",	"awayText" : "0000C0",	"awayMain" : "FFFFFF",  "awaySecondary" : "0000C0"},
-{"city" : "Baltimore",      	"mascot" : "Barons",		"short" : "BAL", 	"homeText" : "FFFFFF",	"homeMain" : "105E26",	"homeSecondary" : "CCBA78",	"awayText" : "105E26",	"awayMain" : "FFFFFF",  "awaySecondary" : "CCBA78"},
+{"city" : "Baltimore",      	"mascot" : "Beasts",		"short" : "BAL", 	"homeText" : "C0C0C0",	"homeMain" : "C00000",	"homeSecondary" : "000000",	"awayText" : "C00000",	"awayMain" : "FFFFFF",  "awaySecondary" : "000000"},
 {"city" : "Jersey City",  	"mascot" : "Angels",		"short" : "JC", 	"homeText" : "FFFFFF",	"homeMain" : "43A6C6",	"homeSecondary" : "FFFFFF",	"awayText" : "43A6C6",	"awayMain" : "FFFFFF",  "awaySecondary" : "43A6C6"},
 {"city" : "New York City", 	"mascot" : "Pride",			"short" : "NYC", 	"homeText" : "FFC72C",	"homeMain" : "480048",	"homeSecondary" : "FFC72C",	"awayText" : "480048",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFC72C"},
 {"city" : "Minneapolis", 	"mascot" : "Bobcats",		"short" : "MIN", 	"homeText" : "FFFFFF",	"homeMain" : "004800",	"homeSecondary" : "D3BC83",	"awayText" : "004800",	"awayMain" : "FFFFFF",  "awaySecondary" : "D3BC83"},
