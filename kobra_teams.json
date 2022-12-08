@@ -28,7 +28,7 @@
 {"city" : "Chicago", 	"mascot" : "Marauders",			"short" : "CHI", 	"homeText" : "F6BE00",	"homeMain" : "3B3E79",	"homeSecondary" : "F6BE00",	"awayText" : "3B3E79",	"awayMain" : "FFFFFF",  "awaySecondary" : "F6BE00"},
 {"city" : "St. Louis", 	"mascot" : "Jets ",		"short" : "STL", 	"homeText" : "000080",	"homeMain" : "C0C0C0",	"homeSecondary" : "000080",	"awayText" : "000080",	"awayMain" : "FFFFFF",  "awaySecondary" : "000080"},
 {"city" : "Anchorage",	"mascot" : "Comets ",		"short" : "ANC", 	"homeText" : "A2AAAD",	"homeMain" : "0000FA",	"homeSecondary" : "A2AAAD",	"awayText" : "0000FA",	"awayMain" : "FFFFFF",  "awaySecondary" : "A2AAAD"},
-{"city" : "Phoenix",   "mascot" : "Firebirds",		"short" : "PHO", 	"homeText" : "FAFA00",	"homeMain" : "FA5100",	"homeSecondary" : "FAFA00",	"awayText" : "FA5100",	"awayMain" : "FFFFFF",  "awaySecondary" : "FAFA00"},
+{"city" : "Phoenix",   "mascot" : "Inferno",		"short" : "PHO", 	"homeText" : "FAFA00",	"homeMain" : "FA5100",	"homeSecondary" : "FAFA00",	"awayText" : "FA5100",	"awayMain" : "FFFFFF",  "awaySecondary" : "FAFA00"},
 {"city" : "San Francisco",   		"mascot" : "Privateers",		"short" : "SF", 	"homeText" : "FFFFFF",	"homeMain" : "FF6620",	"homeSecondary" : "FA0000",	"awayText" : "FF6620",	"awayMain" : "FFFFFF",  "awaySecondary" : "FA0000"},
 {"city" : "Denver",        	"mascot" : "Bison",		"short" : "DEN", 	"homeText" : "FFFFFF",	"homeMain" : "FF6620",	"homeSecondary" : "FFFFFF",	"awayText" : "FF6620",	"awayMain" : "FFFFFF",  "awaySecondary" : "FF6620"}
 ]
